@@ -27,7 +27,7 @@ tokio = {version = "1.13", features = ["full"]}
 tokio-tungstenite = {version = "0.16.1", features = ["native-tls"]}
 tracing = "0.1.29"
 tracing-futures = "0.2.5"
-zstd = "0.9"
+zstd = "0.5"
 
 [dev-dependencies]
 anyhow = "1"
